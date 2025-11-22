@@ -156,8 +156,8 @@ This project demonstrates that:
 
 ---
 
-# ✍️ Authors
+# ✍️ Author
 
-- Your Name : Afzaal Ahmad
+- Name : Afzaal Ahmad
 - Department of Computer Science  
 - Indian Institute of Technology Hyderabad
