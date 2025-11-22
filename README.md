@@ -161,6 +161,3 @@ This project demonstrates that:
 - Your Name : Afzaal Ahmad
 - Department of Computer Science  
 - Indian Institute of Technology Hyderabad
-# mnist-secure-ai
-# mnist-secure-ai
-# mnist-secure-ai
